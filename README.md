@@ -1,19 +1,5 @@
-## Hi there 👋
+## Welcome to MinQyu's github 👋
 
-<!--
-**MinQyu/MinQyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <a href="https://github.com/MinQyu"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=MinQyu&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
 <a href="https://github.com/MinQyu"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinQyu&layout=compact&theme=nord&hide_border=true" /></a>
 
@@ -34,3 +20,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 </div>
+<br>
+📎<a href="https://hushed-find-77e.notion.site/17394ebba9d681c388c1c6f1486460f0"><strong>Click here to view my portfolio -></strong></a>
