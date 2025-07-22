@@ -1,6 +1,6 @@
 ## Welcome to MinQyu's github 👋
 
-<a href="https://github.com/MinQyu"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=MinQyu" alt="MinQyu's github stats" /></a>
+<a href="https://github.com/MinQyu"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=MinQyu&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="MinQyu's github stats" /></a>
 <a href="https://github.com/MinQyu"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinQyu&layout=compact&theme=nord&hide_border=true" /></a>
 
 ### 🛠 Stacks
